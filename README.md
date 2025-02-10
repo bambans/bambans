@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Information Systems technician, Computer Information Systems bachelor's degree student at EACH/USP, HPC Solutions Architect at Versatus HPC and Musician in my free time.
+I'm an Information Systems technician, Computer Information Systems bachelor's degree student at EACH/USP, HPC Solutions Architect at Versatus HPC and Musician in my free time.
 
 ![myxel](https://avatars.githubusercontent.com/u/43711613?v=4&size=128 "bambans")
 
